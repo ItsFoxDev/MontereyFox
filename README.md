@@ -1,3 +1,4 @@
+![01](https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/firefox-monterey.png?raw=true)
 # MontereyFox
 A Firefox theme that looks like Safari on MacOS Monterey
 
