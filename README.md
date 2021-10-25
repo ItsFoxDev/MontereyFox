@@ -1,8 +1,8 @@
 ![01](https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/firefox-monterey.png?raw=true)
-# MontereyFox
+# 🏷️ MontereyFox
 A Firefox theme that looks like Safari on MacOS Monterey
 
-# How to install?
+# 📲 How to install?
 1. Download the theme with the big green button: "Code" >> Download.zip
 2. Open `about:config` page.
 3. A dialog will warn you, but ignore it, ~~just do it~~ press the `I accept the risk!` button.
