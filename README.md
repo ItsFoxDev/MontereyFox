@@ -4,26 +4,13 @@ A Firefox theme that looks like Safari on MacOS Monterey
 
 # 📲 How to install?
 1. Download the theme with the big green button: "Code" >> Download.zip
-2. Open `about:config` page.
-3. A dialog will warn you, but ignore it, ~~just do it~~ press the `I accept the risk!` button.
-4. Search for these:
+2. Go to your Firefox profile.
 
-	+ **`toolkit.legacyUserProfileCustomizations.stylesheets`**
-	+ **`layers.acceleration.force-enabled`**
-	+ **`gfx.webrender.all`**
-	+ **`gfx.webrender.enabled`**
-	+ **`layout.css.backdrop-filter.enabled`**
-	+ **`svg.context-properties.content.enabled`**
+	+ Open about:support
+	+ Click the button beside `Profile Folder`
 
-	Then make sure to **enable them all!**
-
-5. Go to your Firefox profile.
-
-	+ Linux - `$HOME/.mozilla/firefox/XXXXXXX.default-XXXXXX/`.
-	+ Windows 10 - `C:\Users\<USERNAME>\AppData\Roaming\Mozilla\Firefox\Profiles\XXXXXXX.default-XXXXXX`.
-	+ macOS - `Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.default-XXXXXXX`.
-
-6. Drag the `Chrome` folder to your profile directory
-7. Restart Firefox.
+3. Drag the `Chrome` folder to your profile directory
+4. Drag the `user.js` file to your profile directory
+5. Restart Firefox.
 
 **Based off: https://github.com/vinceliuice/WhiteSur-gtk-theme**
