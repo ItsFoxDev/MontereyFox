@@ -2,6 +2,9 @@
 # 🏷️ MontereyFox
 A Firefox theme that looks like Safari on MacOS Monterey
 
+# ⚠️ Notice
+Please note that this theme is glitchy, and I am less than skilled at CSS, so I might not be able to fix everything. If you do know how to fix a certain issue in the theme, please let me know in the `Issues` tab, it helps a ton. :)
+
 # 📲 How to install?
 1. Download the theme with the big green button: "Code" >> Download.zip
 2. Go to your Firefox profile.
